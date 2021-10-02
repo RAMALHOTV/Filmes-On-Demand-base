@@ -5004,3 +5004,45 @@ http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/29706.mkv
 http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/29707.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Vanquish (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1a64e3a84ccd07a498baf05ddaac4908.jpg" group-title="Portuguese",Vanquish (2021)
 http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/29709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Mulher na Janela (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/da2b7838d3352e248e85a7a2ece45f8a.jpg" group-title="Portuguese",A Mulher na Janela (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Vermelho (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCusqunCMU84z32OK0kyZMnTH45.jpg" group-title="Portuguese",Alerta Vermelho (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie Apresenta: Meninas ao Ataque (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7b71d7589a806882992e64024829d505.jpg" group-title="Portuguese",American Pie Apresenta: Meninas ao Ataque (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ataque Fatal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAfQWKpALGe91Nn12lBeBoTGgsC.jpg" group-title="Portuguese",Ataque Fatal (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Depois a Louca Sou Eu (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iASQXlZqZfERdwTnBxIRpfgKrsO.jpg" group-title="Portuguese",Depois a Louca Sou Eu (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Todas as Meninas (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/27f675b4b77b92fdb864a9739a65862d.jpg" group-title="Portuguese",Eu Sou Todas as Meninas (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ferry (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/fb91f1ee9cb370efde3e368cb65678d6.jpg" group-title="Portuguese",Ferry (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Rebanho (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/298a15638d16495139f6ac75a02f7a7d.jpg" group-title="Portuguese",O Rebanho (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério da Casa Assombrada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8EcGvxeF6F5nGapm279xDTTo6Y.jpg" group-title="Portuguese",O Mistério da Casa Assombrada (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Perfeito Sr. Cha (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c31eb4d45977e6bbe90f16afa7b5985f.jpg" group-title="Portuguese",O Perfeito Sr. Cha (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Intrusos (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/65ca142648ff34031ef6a0aaae2e9abc.jpg" group-title="Portuguese",Os Intrusos (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Patricia, Uma Paixão Escondida (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d0f37fb91812f3534b4286f57c3a98ec.jpg" group-title="Portuguese",Patricia, Uma Paixão Escondida (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sem Remorso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHEZ4ZMziIjlAgCTQAEh9ROvtj0.jpg" group-title="Portuguese",Sem Remorso (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvo Número Um (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLBW854UbuYqTx5CjlUr0FzkCKq.jpg" group-title="Portuguese",Alvo Número Um (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matando Deus (2017)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e7390d89eca47b495f1c3ef2db855645.jpg" group-title="Portuguese",Matando Deus (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rosa Amarela (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LCmW7y8796PDKjMFEi8snYFIWQ.jpg" group-title="Portuguese",Rosa Amarela (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/31954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além das Montanhas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMW81htT6Kki8x0G4UNb7l48iIr.jpg" group-title="Portuguese",Além das Montanhas (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/32147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Army of the Dead: Invasão em Las Vegas (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/685511f4ce13e7a70ee91a0243808585.jpg" group-title="Portuguese",Army of the Dead: Invasão em Las Vegas (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/32148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meu Eterno Primeiro Amor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7N2cST1tBJVH4iU3ns67zq8PuV.jpg" group-title="Portuguese",Meu Eterno Primeiro Amor (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/32149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Último Desejo de Sardar (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e5f2730d16034401b36879b7da5fdf87.jpg" group-title="Portuguese",O Último Desejo de Sardar (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/32150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="P!NK: Tudo Que Aprendi Até Agora (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i310b9eYLmNPt3zc3ZW0ep1N7Qx.jpg" group-title="Portuguese",P!NK: Tudo Que Aprendi Até Agora (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/32151.mkv
