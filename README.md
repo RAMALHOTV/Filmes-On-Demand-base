@@ -3696,3 +3696,1153 @@ http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/16673.mp4
 http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/16674.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Reino Unido (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bl13OXBp7Ss1rkpHA0Nh3Girkmu.jpg" group-title="Portuguese",Um Reino Unido (2016)
 http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/16675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor com Data Marcada (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2dfc9daea443f0c95852478dec79f7ee.jpg" group-title="Portuguese",Amor com Data Marcada (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/16950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuga de Pretória (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1539718eefa95d57c1f8a5ec383e3a34.jpg" group-title="Portuguese",Fuga de Pretória (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/16951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rogue City (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AhimmTx88WsQfIX8OUjOxxgw5J.jpg" group-title="Portuguese",Rogue City (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/16952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="mãe! (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldEZHi9jyfAhJuSUaEWd7qf7nU3.jpg" group-title="Portuguese",mãe! (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/16953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vingadores: Ultimato (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/97116339e40b8081e13817d9ab74e690.jpg" group-title="Portuguese",Vingadores: Ultimato (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem-Aranha: De Volta ao Lar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="Portuguese",Homem-Aranha: De Volta ao Lar (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vera (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WGKZMp4vgPvezVntbUqch9VJwq.jpg" group-title="Portuguese",Vera (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Welcome to Sudden Death (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b2bf345e3a4514e3ee57f0433756e60.jpg" group-title="Portuguese",Welcome to Sudden Death (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente Infiltrada (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b933869fedcb08ae7480274be207ab40.jpg" group-title="Portuguese",Agente Infiltrada (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grito Silencioso (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39e56b11ad80ba538e622d3cea3a6aba.jpg" group-title="Portuguese",Grito Silencioso (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca do Paraíso (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/47c45e7007d6de352596fbe870a58c79.jpg" group-title="Portuguese",Em Busca do Paraíso (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Não Vamos Pagar Nada (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6328eb5c6f8e297bc7ce7856fe0ce685.jpg" group-title="Portuguese",Não Vamos Pagar Nada (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: O Mapa do Tesouro (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RDxMKvGGqNElnHpjPenlHEJUg.jpg" group-title="Portuguese",Luccas Neto em: O Mapa do Tesouro (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez um Boneco de Neve (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5b6813910f8dcf7ba5a39892f36d2300.jpg" group-title="Portuguese",Era Uma Vez um Boneco de Neve (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tempo de Caça (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3a40349526718f56ff5e18a95aa82b17.jpg" group-title="Portuguese",Tempo de Caça (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos de Saqqara (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e859baa94afa917c3011e7fac4291f8c.jpg" group-title="Portuguese",Os Segredos de Saqqara (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thất Sơn Tâm Linh (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qI6r0sVGtZJfY1B9lXYMSWAA8hh.jpg" group-title="Portuguese",Thất Sơn Tâm Linh (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saviors (2018)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGY3NDhjN2YtZWM5NS00MGQyLWIzYmUtYzMyNTMyOWMyYzU2XkEyXkFqcGdeQXVyMTk3ODMwMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="Portuguese",Saviors (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Ivan (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b146f42e3369542c06683e8bae8840c4.jpg" group-title="Portuguese",O Grande Ivan (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paradise Z (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e5b6e1d1bbcfbfdff0e3394032e88be7.jpg" group-title="Portuguese",Paradise Z (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SlKmu0a1G1eihI29WMQogBWgzr.jpg" group-title="Portuguese",Bit (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vou Nadar Até Você (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/871faa1e881a380734f22ef4105e10b7.jpg" group-title="Portuguese",Vou Nadar Até Você (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Poço (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/367d62682c0ccef6b167ee08609660fd.jpg" group-title="Portuguese",A Maldição do Poço (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Olympic Dreams (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQxTK2Tg8YKNJFpg6bt48IoG7py.jpg" group-title="Portuguese",Olympic Dreams (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Flood (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2b367276c7ddfe77df268b5161911179.jpg" group-title="Portuguese",The Flood (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Missão Presente de Natal (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a57e1fe6edab5049fbdb666b1f0fe89c.jpg" group-title="Portuguese",Missão Presente de Natal (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luta Pela Fé (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/26fdd1c97d0303942bd556f242c38a18.jpg" group-title="Portuguese",Luta Pela Fé (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espada de Deus - A Última Cruzada (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/29d2e64b2cf49b949a892ebd3588657b.jpg" group-title="Portuguese",Espada de Deus - A Última Cruzada (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja: O Incrível Resgate (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/20210ca79eb904b7167c9c085902f006.jpg" group-title="Portuguese",Bob Esponja: O Incrível Resgate (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quatro Vidas de um Cachorro (2017)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d8116fa59a46c33a0536d3474b5e0adc.jpg" group-title="Portuguese",Quatro Vidas de um Cachorro (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Novos Mutantes (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/602e6ad053673b9adda6fc36ad9e786a.jpg" group-title="Portuguese",Os Novos Mutantes (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ficar com Você (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bf2c64062a71982e40f44ca34d46b0cc.jpg" group-title="Portuguese",Ficar com Você (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cortex (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/243809404fd4eceb342a7e32d2715cce.jpg" group-title="Portuguese",Cortex (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greatland (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f4b78024e2e44ea1be63bfabbe2388b4.jpg" group-title="Portuguese",Greatland (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Synchronicity (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d87691f11770d8c42b111c532323c295.jpg" group-title="Portuguese",Synchronicity (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S.O.S. Survive or Sacrifice (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d5104fc826aa509c82241b22490cfb81.jpg" group-title="Portuguese",S.O.S. Survive or Sacrifice (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bigfoot: Path of the Beast (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f9841bf284ef616bd7940ca40d6e31c1.jpg" group-title="Portuguese",Bigfoot: Path of the Beast (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Come Play (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/937a5cd8b22ec8a61530340ebd2142a8.jpg" group-title="Portuguese",Come Play (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sweet Taste of Souls (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/522f229430b11c33ae3f15fa51093130.jpg" group-title="Portuguese",Sweet Taste of Souls (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The True Adventures of Wolfboy (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/972597595c6ad5945e5c854030b6cefb.jpg" group-title="Portuguese",The True Adventures of Wolfboy (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rainha de Copas (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9ac42cea974d6849712f62284ebc8729.jpg" group-title="Portuguese",Rainha de Copas (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2067 (2020) legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg" group-title="Portuguese",2067 (2020) legendado
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 2 (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/37feb627659b6d37fa1f4beb398c343d.jpg" group-title="Portuguese",A Barraca do Beijo 2 (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Barraca do Beijo 3 (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b34ca5eeb7b69c5f8fb8a0174d06fb5a.jpg" group-title="Portuguese",A Barraca do Beijo 3 (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa de Hóspedes (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f81a32afbb36cb9605fcda019243b75a.jpg" group-title="Portuguese",A Casa de Hóspedes (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Terror (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/dbf7122efd6584d78b0587570876792f.jpg" group-title="Portuguese",A Casa do Terror (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instinto Predador (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/awFeMJIo2KibIBCrzcsgmcZnMHf.jpg" group-title="Portuguese",Instinto Predador (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anjo Meu (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/632e782680aa42be87d7233e6a4d32fe.jpg" group-title="Portuguese",Anjo Meu (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sicário: Dia do Soldado (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/375b2a4f76381a37f840b179fd87642a.jpg" group-title="Portuguese",Sicário: Dia do Soldado (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/17924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Cinderela: Milagre de Natal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doo45Z1rtyByhN69yfUsqtzeg7M.jpg" group-title="Portuguese",A Nova Cinderela: Milagre de Natal (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Suíça (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ac3ca654cca319618e3bdd4a4c17a5c2.jpg" group-title="Portuguese",A Pequena Suíça (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horizon Line (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWGkIHeCLw9wWvPXnPTOM9d5GiK.jpg" group-title="Portuguese",Horizon Line (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jovens Bruxas: Nova Irmandade (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/56990299f1d72c22db7b2b3401542675.jpg" group-title="Portuguese",Jovens Bruxas: Nova Irmandade (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rise to Power: KLGU (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/75b27686a013f68b0bced490389036bf.jpg" group-title="Portuguese",Rise to Power: KLGU (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spell (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rjHhj1BAREc9zNFU8FheLJQdFf.jpg" group-title="Portuguese",Spell (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clownery (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a69199dab3c94c47bf96714298a393b3.jpg" group-title="Portuguese",Clownery (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ravers (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/73c8a4d7c5bececa846f903c11d91980.jpg" group-title="Portuguese",Ravers (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Block Z (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/20fc944d986e1a43fe6851077b0299f0.jpg" group-title="Portuguese",Block Z (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De Gaulle (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/699a9ae253bbbbf1962edef0b8d4ce19.jpg" group-title="Portuguese",De Gaulle (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Friendsgiving (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a319d3036ff383b311beff5d78334b11.jpg" group-title="Portuguese",Friendsgiving (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Better Days (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/65fbb57d49408ff0e672a4f8b8733705.jpg" group-title="Portuguese",Better Days (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destruição Final: O Último Refúgio (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/117a523cff6d43d7f6360575e8a70a38.jpg" group-title="Portuguese",Destruição Final: O Último Refúgio (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Glorias (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bItFQ4QahfILGj9mA5uyJvAimeD.jpg" group-title="Portuguese",The Glorias (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Mensageiro do Último Dia (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a7da90df6195cb88496c5db865095563.jpg" group-title="Portuguese",O Mensageiro do Último Dia (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério da Libélula (2002)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2aa6bb309e20aef5e1b459df2166a1dd.jpg" group-title="Portuguese",O Mistério da Libélula (2002)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Férias Frustradas de Natal (1989)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1e361e64ed75da77b454037b05ac85b1.jpg" group-title="Portuguese",Férias Frustradas de Natal (1989)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narciso e Goldmund (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b353b6862f73c75d11cffbae64c055dc.jpg" group-title="Portuguese",Narciso e Goldmund (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elementa (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c9800a73af3929700fa492b4bbae9fe6.jpg" group-title="Portuguese",Elementa (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menininha (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e335faff56b24bdb5a3c3b7290f507e9.jpg" group-title="Portuguese",A Menininha (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abaixo de Nós (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4317aa004da1283972ad346f96aa7417.jpg" group-title="Portuguese",Abaixo de Nós (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Girl’s Revenge (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bD19R4n7Vjdc3uT0OWiJwpuLgV.jpg" group-title="Portuguese",Girl’s Revenge (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Artemis Fowl: O Mundo Secreto (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4db0a2709a9db4a23ac570c0bb07656a.jpg" group-title="Portuguese",Artemis Fowl: O Mundo Secreto (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uma Invenção de Natal (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/775aecf0c25ede28819d6d3e08adcf2b.jpg" group-title="Portuguese",Uma Invenção de Natal (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Lobo (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/33690be344d1903397004aefa2ad837d.jpg" group-title="Portuguese",Esquadrão Lobo (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Guerreiro (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/499b0f9df5ada9097c336ae2cb4a8fdc.jpg" group-title="Portuguese",Alma de Guerreiro (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ludo (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8ec20031d3b9a0beb742dd75c1d17b48.jpg" group-title="Portuguese",Ludo (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quando a Vida Acontece (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2708e60230e558c5c1ff7ba582260b4d.jpg" group-title="Portuguese",Quando a Vida Acontece (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Lição de Moremi (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b163aed4f52d283b52207d4f9cf892e3.jpg" group-title="Portuguese",A Lição de Moremi (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meia-irmã (2017)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7985cfc17ea398fbfd68f8ae0f91b880.jpg" group-title="Portuguese",Meia-irmã (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Menéndez: El día del Señor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsQT8B6T7Ot1XJQlj6LxrZ7HjEK.jpg" group-title="Portuguese",Menéndez: El día del Señor (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Verdadeira História de Ned Kelly (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4fc1e210e7ac33388412cd425b12f4e1.jpg" group-title="Portuguese",A Verdadeira História de Ned Kelly (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mussum: Um Filme do Cacildis (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b77097516c3682129e49e2b934c44380.jpg" group-title="Portuguese",Mussum: Um Filme do Cacildis (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ben 10 Contra o Universo: O Filme (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/896699e20adaa6f134a6041333bba641.jpg" group-title="Portuguese",Ben 10 Contra o Universo: O Filme (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Magic Camp (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0bf5557369d7d3d15fe2306c7327458d.jpg" group-title="Portuguese",Magic Camp (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rosa e Momo (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b628076249ccf55dd67f91e4b2efaaa0.jpg" group-title="Portuguese",Rosa e Momo (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Lobo em Pele de Cordeiro 2 (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b0a5fe65c1ef366b779ee478f3dfc3fd.jpg" group-title="Portuguese",Um Lobo em Pele de Cordeiro 2 (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nível Hard (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/be47d643ad91d4bd51e0a267615ed899.jpg" group-title="Portuguese",Nível Hard (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa Encantada: O Casamento Real (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/85f1c66f7152537db8ccd9764a09f756.jpg" group-title="Portuguese",A Princesa Encantada: O Casamento Real (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Exterminador: Cavaleiros e Dragões (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/99610c0ee967fdee8b8e08823bb08ec0.jpg" group-title="Portuguese",Exterminador: Cavaleiros e Dragões (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/18674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verdade e Justiça (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e4b2e9c7155dba655aeac317df7122ff.jpg" group-title="Portuguese",Verdade e Justiça (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/19242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sem Conexão (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5be7f5402e8d4e535643c1fd2150a5ee.jpg" group-title="Portuguese",Sem Conexão (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/19746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Triggered (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7d2c6ac66b3dfaddf0ec345b121f5e14.jpg" group-title="Portuguese",Triggered (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/19747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blackout: A Batalha Final (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ciUTvwB0w2MhFUQjU3VuO9q9gZp.jpg" group-title="Portuguese",Blackout: A Batalha Final (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/19950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cidade da Garganta Cortada (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2Dcje3NkmySevZo5hVCfPaxqdL.jpg" group-title="Portuguese",Cidade da Garganta Cortada (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/19951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O X do Natal (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d49220e5616745c302ca0d00be16fdef.jpg" group-title="Portuguese",O X do Natal (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/19952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c8d190adcd8f1d2087028f6202f8f3fd.jpg" group-title="Portuguese",Jojo Rabbit (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parasita (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg" group-title="Portuguese",Parasita (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez em… Hollywood (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c2dee97884e2843599c34e4282cf2736.jpg" group-title="Portuguese",Era Uma Vez em… Hollywood (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vai que Cola 2: O Começo (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f4e020f81319eeb33c2332d908a77365.jpg" group-title="Portuguese",Vai que Cola 2: O Começo (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4 (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6ada79709f63007c0f2eda82dc73db87.jpg" group-title="Portuguese",Toy Story 4 (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superação: O Milagre da Fé (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/178885f4f59972c36e4527eb065cac13.jpg" group-title="Portuguese",Superação: O Milagre da Fé (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operação Supletivo: Agora Vai! (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/I1jDPWDC3DvnZTViTaOPKCF1YU.jpg" group-title="Portuguese",Operação Supletivo: Agora Vai! (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por Lugares Incríveis (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ee6e46d281c89eb19e9a2669ef2d0e49.jpg" group-title="Portuguese",Por Lugares Incríveis (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Fera (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akuPc5iMWToEZG4OGZ9coZlIpU7.jpg" group-title="Portuguese",A Fera (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ligação (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pytXGwLsP07ngaFJM94Md3Q9SIl.jpg" group-title="Portuguese",A Ligação (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ana (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/110436b5025cd2e7a10c0932b2400a8b.jpg" group-title="Portuguese",Ana (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Rosa Venenosa (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2985810d754cbedf105821ff14cf92e1.jpg" group-title="Portuguese",A Rosa Venenosa (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa e a Plebeia: Nova Aventura (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5770a8c479385a4a8673e4489c6ec2eb.jpg" group-title="Portuguese",A Princesa e a Plebeia: Nova Aventura (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Química que Há Entre Nós (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/fee4891cd970d98d06760086bac7d678.jpg" group-title="Portuguese",A Química que Há Entre Nós (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Viagem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="Portuguese",A Viagem (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida Gira (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/55693bc25682743f57a5fb29510899ba.jpg" group-title="Portuguese",A Vida Gira (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rambo: Até o Fim (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cac058ca7f31fbc1650dfae1b645f076.jpg" group-title="Portuguese",Rambo: Até o Fim (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Garantido (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/30beda2690665722699864fe82a6dde7.jpg" group-title="Portuguese",Amor Garantido (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Android Uprising (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b3462dabbc2fc6bc3062487b5d18969e.jpg" group-title="Portuguese",Android Uprising (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anelka - O incompreendido (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1bcfec22c6401658fbee0c5137df4e45.jpg" group-title="Portuguese",Anelka - O incompreendido (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pode Guardar um Segredo? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrkCsT3DNYhPv79cc5rPnkcoGfx.jpg" group-title="Portuguese",Pode Guardar um Segredo? (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Som do Silêncio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVHgv6leYDCKrW4bdzA77NlMXXM.jpg" group-title="Portuguese",O Som do Silêncio (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beast Mode (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c1f7ceb0cdc687bd38ef2d0cddbfccb7.jpg" group-title="Portuguese",Beast Mode (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/20787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No Place (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/fe8704c4cd1e6078b33d688c4b274cef.jpg" group-title="Portuguese",No Place (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/21351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wolfwalkers (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/350f151ccbb7af6313f897dbb87ad948.jpg" group-title="Portuguese",Wolfwalkers (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/21352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anything for Jackson (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4dee033b05d1784798609ed26bffd4c0.jpg" group-title="Portuguese",Anything for Jackson (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/21353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agentes Vanguard (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/df19341b926969e656d1e3c157b12861.jpg" group-title="Portuguese",Agentes Vanguard (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/21445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man: O Mestre do Kung Fu (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7goDYupzMM5KZH6bMndsxOat9Xq.jpg" group-title="Portuguese",Ip Man: O Mestre do Kung Fu (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acredite em Mim: A História de Lisa Mcvey (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/dfa726870ba9330da7977ccc6b306e09.jpg" group-title="Portuguese",Acredite em Mim: A História de Lisa Mcvey (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaleb - O Cão Herói (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEBYqFsKrAfyQzvCOf5j2lgAzE5.jpg" group-title="Portuguese",Kaleb - O Cão Herói (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mais Outro Filho (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/30a2bac5704773bc0058aa0678dd5584.jpg" group-title="Portuguese",Mais Outro Filho (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonhos de Uma Vida (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4f29d3d02a26757a19dcd083f6fa390c.jpg" group-title="Portuguese",Sonhos de Uma Vida (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aladdin (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d27dff3fa723b61d04f317980971e541.jpg" group-title="Portuguese",Aladdin (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Brinde ao Natal (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b8cc09038670777bb94dd8b2c1fd63d5.jpg" group-title="Portuguese",Um Brinde ao Natal (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Face da Verdade (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qNh8cv32CBhisDzrH080qOEncv.jpg" group-title="Portuguese",A Face da Verdade (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Vingança da Babá (2017)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1c94c426105ed77fbd8c88f90ed10f20.jpg" group-title="Portuguese",A Vingança da Babá (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Voz Suprema do Blues (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/55d79b97b1317d756814f265aa80cc1e.jpg" group-title="Portuguese",A Voz Suprema do Blues (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Contra o Relógio (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4d3afa07086df67b024654eb3cdaab95.jpg" group-title="Portuguese",Contra o Relógio (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enquanto Estivermos Juntos (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/326a19daa5488e9b0ab57895adb8d3c1.jpg" group-title="Portuguese",Enquanto Estivermos Juntos (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Invasão Zumbi (2012)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/21a45d0ec086aaae9e01dce8a45af158.jpg" group-title="Portuguese",A Invasão Zumbi (2012)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogue Warfare 2: A Caçada (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yE1hErf9R2ocoijr26IIM1vFNVa.jpg" group-title="Portuguese",Rogue Warfare 2: A Caçada (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogue Warfare 3: A Morte de uma Nação (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqhHuc5iEsgrDynkM9qxuATHG9x.jpg" group-title="Portuguese",Rogue Warfare 3: A Morte de uma Nação (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Um Relacionamento Serio (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1neFg12rAAT5YnODB1l2iLv9HLG.jpg" group-title="Portuguese",Em Um Relacionamento Serio (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Loucuras de Verão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9pvaJhDG8NjreXI1JruotEpyBFt.jpg" group-title="Portuguese",Loucuras de Verão (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Natal Sempre e Para Sempre (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/10681a2260fe057bb148ca8ddb00cbb7.jpg" group-title="Portuguese",Natal Sempre e Para Sempre (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rogue Warfare - Ameaça Global (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZEAAW1W6mNxLZ87Aur79DjXdPv.jpg" group-title="Portuguese",Rogue Warfare - Ameaça Global (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Árvore dos Desejos (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a88214d7a0f250e8e7c89ec59f979ce8.jpg" group-title="Portuguese",A Árvore dos Desejos (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elliot: Uma História de Natal (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ad8e79d8e49caa53103cc2346856673b.jpg" group-title="Portuguese",Elliot: Uma História de Natal (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spycies: Agentes Selvagens (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRbKCQxQ6PF9GWMWknN3LVm9sCZ.jpg" group-title="Portuguese",Spycies: Agentes Selvagens (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Croods 2: Uma Nova Era (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2YpOR3HiWaTtaqRLnGMNSjvgCE.jpg" group-title="Portuguese",Os Croods 2: Uma Nova Era (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shaun, O Carneiro - O Filme: A Fazenda Contra-Ataca (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uVr8U96Pbj7sLk9qX6EQ8s3eTin.jpg" group-title="Portuguese",Shaun, O Carneiro - O Filme: A Fazenda Contra-Ataca (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Army of One (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/416974554fd9d7cedd321325ff2a4d80.jpg" group-title="Portuguese",Army of One (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buoyancy (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e6cb7422feb0b9ff48159b77ffdd367c.jpg" group-title="Portuguese",Buoyancy (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sapatinho Vermelho e os Sete Anões (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqrSjDbIN4beOs7BwpZJNM3OpBr.jpg" group-title="Portuguese",Sapatinho Vermelho e os Sete Anões (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sibéria (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7e18283930a3b29a18f28fb97a7bd1ca.jpg" group-title="Portuguese",Sibéria (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Skylines (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c2da72886ab3ed7123b01c76a3553ea9.jpg" group-title="Portuguese",Skylines (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Capital Humano (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9324e03a3f6964be07d845984e26ed3c.jpg" group-title="Portuguese",Capital Humano (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Dia de Chuva em Nova York (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/73aa76e5e3af4b3105e986b4dfb8b1e7.jpg" group-title="Portuguese",Um Dia de Chuva em Nova York (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Irmãos Willoughby (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a263f8532ed525bde4f6455f8b465b96.jpg" group-title="Portuguese",Os Irmãos Willoughby (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Bicho Vai Pegar 2 (2008)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0105dfc8a35c5b988fad42f78ba386fc.jpg" group-title="Portuguese",O Bicho Vai Pegar 2 (2008)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fixies - Amigos Secretos (2017)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/321b14a638d725404278a148a698007f.jpg" group-title="Portuguese",Fixies - Amigos Secretos (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blind – Eu Estou Aqui (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8b134828a784de6dd5ecdb6b776a5ac0.jpg" group-title="Portuguese",Blind – Eu Estou Aqui (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Encontro Criminoso (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hg9rgTswHwaisEL6qNA9U6ER2B.jpg" group-title="Portuguese",Encontro Criminoso (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Estranho Mas Verdade (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/28890d3d60ef4c7b8b64b629159fc333.jpg" group-title="Portuguese",Estranho Mas Verdade (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Forças Malignas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28eUhtgJEFj4KrBXsrt3VaYhZ4E.jpg" group-title="Portuguese",Forças Malignas (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuga pela Fronteira (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6b863538f34e7c7304aa6d7d00772d5f.jpg" group-title="Portuguese",Fuga pela Fronteira (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Não-Conformista (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c7428d444ef00ad03739cea9d5675090.jpg" group-title="Portuguese",Não-Conformista (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Natal do Zé Coleta (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83aa2f1333c96a9b108ddd85640dca41.jpg" group-title="Portuguese",O Natal do Zé Coleta (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Céu da Meia-Noite (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1cfc10b6a1d20bd24d2fe0d458da3ca.jpg" group-title="Portuguese",O Céu da Meia-Noite (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tenet (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0dd0fb2dd7661dfbcec8586e80ff1599.jpg" group-title="Portuguese",Tenet (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vombate ao Combate (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e830403bbe037cf8e428d04a8287a013.jpg" group-title="Portuguese",Vombate ao Combate (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Às Cegas (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/580db39a386d4994b06c0bf37dfa2708.jpg" group-title="Portuguese",Às Cegas (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Always and Forever (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qSYahzzFP7od6mFegr64V0aGoYr.jpg" group-title="Portuguese",Always and Forever (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Último Nível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QjaS6M5oR0tg9almf7odQW4Vi7.jpg" group-title="Portuguese",O Último Nível (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Concrete Plans (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b3a2db2343bee67bdc7e2488a2f2f47a.jpg" group-title="Portuguese",Concrete Plans (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Freaky: No Corpo de um Assassino (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5BiwIsZkGB40jEcgxPiCv2d1eAh.jpg" group-title="Portuguese",Freaky: No Corpo de um Assassino (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Legado Explosivo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3mj67aq6SsaDxV7il1KrDRvIXL.jpg" group-title="Portuguese",Legado Explosivo (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lemonheads (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bd882a8ae4e9c87301653f6d331406d2.jpg" group-title="Portuguese",Lemonheads (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loco (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4677c617fc9d91ea808bcf9ec97fdac2.jpg" group-title="Portuguese",Loco (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trump vs the Illuminati (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/fdf0156ed2b61c251dc1ebbf074fdc7a.jpg" group-title="Portuguese",Trump vs the Illuminati (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wander (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b3b0a5fc43cdbc8122ecd195128bb3ae.jpg" group-title="Portuguese",Wander (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Casamento a Mais (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4a67393241dddedd07d4a267e2807ea0.jpg" group-title="Portuguese",Um Casamento a Mais (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zeroville (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/60db41fd9783b180905efd59f1c6f88f.jpg" group-title="Portuguese",Zeroville (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Sintonia (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3avMTnwBwhaeAbXy47nlPIcWCWo.jpg" group-title="Portuguese",Em Sintonia (2015)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por Amor ou Por Dinheiro (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f3d45857a83167ba3376546a81bc048.jpg" group-title="Portuguese",Por Amor ou Por Dinheiro (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Volta do Espírito de Natal (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4e9b69eccf6bff9b8abda1dc2b3bfa17.jpg" group-title="Portuguese",A Volta do Espírito de Natal (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Açougueiro (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0fd54269c8a3107d25a8555c3ee2a966.jpg" group-title="Portuguese",O Açougueiro (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Escândalo (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/703f477899248d9341e15311712ec679.jpg" group-title="Portuguese",O Escândalo (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Judy: Muito Além do Arco-Íris (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbS0KWxQPMTiQ53WooVgCIgEWnc.jpg" group-title="Portuguese",Judy: Muito Além do Arco-Íris (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dor e Glória (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bScM0AHRktwfMxmt7lP6IjV7KPR.jpg" group-title="Portuguese",Dor e Glória (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdi Meu Corpo (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d8582127a4fa3ae7b513f5bf190099f7.jpg" group-title="Portuguese",Perdi Meu Corpo (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como Treinar o Seu Dragão: Homecoming (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a004b1dea825c076cd088a9d0808c9c1.jpg" group-title="Portuguese",Como Treinar o Seu Dragão: Homecoming (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos que Guardamos (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e372efdfc8c59a284018529f14e4d8a7.jpg" group-title="Portuguese",Os Segredos que Guardamos (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Violação (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JmtaGCYsTv484MByG2AqmVqNcf.jpg" group-title="Portuguese",Violação (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pequenos Grandes Heróis (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ee40d7d8f49e8a75582dee01901d4418.jpg" group-title="Portuguese",Pequenos Grandes Heróis (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soul (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg" group-title="Portuguese",Soul (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/22966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Silenciamento (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyeeMR4C0UEnspf2zwz5X0Z0dK.jpg" group-title="Portuguese",O Silenciamento (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Submissão (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7366ab22d21dff85c4933db265e36e6d.jpg" group-title="Portuguese",Submissão (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fada Madrinha (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/36205ad58b578b927f0ffd3de959555e.jpg" group-title="Portuguese",Fada Madrinha (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca da Fama (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1d47e7b16f1154f1cbabf276e57a6eb1.jpg" group-title="Portuguese",Em Busca da Fama (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BadLand (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ki1NxQ1dda7qC3BcWMNzZHhhmmb.jpg" group-title="Portuguese",BadLand (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bride to Be (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3c17d3521132e98c64feff03258550c4.jpg" group-title="Portuguese",Bride to Be (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darling Nikki (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c1249d9c0d767bea0a45a58b361cea35.jpg" group-title="Portuguese",Darling Nikki (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enhanced (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ae305e716676b8f417c8cf0921e308fb.jpg" group-title="Portuguese",Enhanced (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Max Cloud (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/95c75c905aed26a4b01e69aceb96bb1c.jpg" group-title="Portuguese",Max Cloud (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Strain 100 (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/58ddb37d75d8caff351661e3b77dc86b.jpg" group-title="Portuguese",Strain 100 (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Amor de Sylvie (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qf3ReJWoO721NJ8nj5KioE7fQpP.jpg" group-title="Portuguese",O Amor de Sylvie (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YPPWRco8dTSmtj3LkVdSbyuQvK.jpg" group-title="Portuguese",The Dry (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Night They Knocked (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d1f44e0d8cf55cf9fd0a077cac3eb5eb.jpg" group-title="Portuguese",The Night They Knocked (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Violet Evergarden Gaiden - Eternidade e a Boneca de Automemória (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/adb7a8772f78fd9598480c59e0b5ff7b.jpg" group-title="Portuguese",Violet Evergarden Gaiden - Eternidade e a Boneca de Automemória (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Incrível História da Pera Gigante (2017)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e1efcafd9a8344802cab44b8d2c07600.jpg" group-title="Portuguese",A Incrível História da Pera Gigante (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears: Aventura em Miniatura (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a91d0fa47716b3db9ff27575714a5807.jpg" group-title="Portuguese",Boonie Bears: Aventura em Miniatura (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carteiro Paulo - O Filme (2014)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e872f2aa058bee3cbe07f9694be9b72f.jpg" group-title="Portuguese",Carteiro Paulo - O Filme (2014)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sargento Stubby (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/951ad49d0efe5c0588643745dceea246.jpg" group-title="Portuguese",Sargento Stubby (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lupin III: O Primeiro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sFH7XGenvhPEETBA2LmLbYQoqml.jpg" group-title="Portuguese",Lupin III: O Primeiro (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fantástica - Uma Aventura no Mundo Boonie Bears (2017)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a556576a7edbdfb6dc55e1940f98a28b.jpg" group-title="Portuguese",Fantástica - Uma Aventura no Mundo Boonie Bears (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hop - Rebelde Sem Páscoa (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9C4lCayKoFB6hwVvgalz6rtcyOn.jpg" group-title="Portuguese",Hop - Rebelde Sem Páscoa (2011)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kikoriki - Agência de Viagens Deja-Vu (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f48ba99da648dfa0e06e72788f3bfcaa.jpg" group-title="Portuguese",Kikoriki - Agência de Viagens Deja-Vu (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo (1984)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b21bab4eec15cf40b060e6e6890b51cf.jpg" group-title="Portuguese",A Hora do Pesadelo (1984)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo (2010)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cd20dad46a931ee57b75ee08f06aa1a4.jpg" group-title="Portuguese",A Hora do Pesadelo (2010)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 2: A Vingança de Freddy (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHFq7fGucKBm4DeXf84U5ibLhK3.jpg" group-title="Portuguese",A Hora do Pesadelo 2: A Vingança de Freddy (1985)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVPbfhhyPuYNrLz4rRN9gnyDg2S.jpg" group-title="Portuguese",A Hora do Pesadelo 3: Os Guerreiros dos Sonhos (1987)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTSPEWQD0sYHJMbmoJdiuWt13pw.jpg" group-title="Portuguese",A Hora do Pesadelo 4: O Mestre dos Sonhos (1988)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddOLCJVtIyRiRlLlrF5PCu6g7Hg.jpg" group-title="Portuguese",A Hora do Pesadelo 5: O Maior Horror de Freddy (1989)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7yb8OS0bFNn6lpjJkdA8pziimF.jpg" group-title="Portuguese",A Hora do Pesadelo 6: Pesadelo Final - A Morte de Freddy (1991)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Pesadelo 7: O Retorno de Freddy Krueger (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEVFm2LfUSfYfuctRWPiBEnberd.jpg" group-title="Portuguese",A Hora do Pesadelo 7: O Retorno de Freddy Krueger (1994)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duelo no Asfalto (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/015a42ff52a3b681c1eb56d47c11b914.jpg" group-title="Portuguese",Duelo no Asfalto (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enforcados (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74MuudAjlX4gpQLnIhH35lAbx4q.jpg" group-title="Portuguese",Enforcados (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meu Bebê (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YszqrkqQ8TNYGX8lnQivTrlvDh.jpg" group-title="Portuguese",Meu Bebê (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ninguém Brinca com Jesus Quintana (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e37a4d6b98233c84d19f60bba8ca54de.jpg" group-title="Portuguese",Ninguém Brinca com Jesus Quintana (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Último Turno (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEe6L1gETZyBJxvQZnycXnUKjfe.jpg" group-title="Portuguese",O Último Turno (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição do Espelho (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b838327f46f0532355870da0ec422c9.jpg" group-title="Portuguese",A Maldição do Espelho (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical: A Série: O Musical: Episódio Especial (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kavmQRk1EVo3uZKzawZ0xfC8NLo.jpg" group-title="Portuguese",High School Musical: A Série: O Musical: Episódio Especial (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Dom da Serpente (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/17067ad8edd88836c324c15240bcfca4.jpg" group-title="Portuguese",O Dom da Serpente (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Maravilha 1984 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDA95ebiy3W3m8hTRB3xZNZVVBM.jpg" group-title="Portuguese",Mulher-Maravilha 1984 (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Let Them All Talk (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg" group-title="Portuguese",Let Them All Talk (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Climb (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCaWNkqZIfaKMSPmudOfCF721BN.jpg" group-title="Portuguese",The Climb (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BLIZZARD OF SOULS (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okFrfkCJyd28uel7vsyNGbnZulA.jpg" group-title="Portuguese",BLIZZARD OF SOULS (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Santo Desconhecido (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRZlSz4gvTjhk3gxsOUUcPZCp1D.jpg" group-title="Portuguese",O Santo Desconhecido (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abra Suas Asas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWlnUfzERPhYG6zUtepOsxcPlS6.jpg" group-title="Portuguese",Abra Suas Asas (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cut Throat City (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2Dcje3NkmySevZo5hVCfPaxqdL.jpg" group-title="Portuguese",Cut Throat City (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entre Armas e Brinquedos (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a78c51d4581e724cf8f75357da74779.jpg" group-title="Portuguese",Entre Armas e Brinquedos (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espontânea (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e808388d09761e591caf475400952bcd.jpg" group-title="Portuguese",Espontânea (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nas Trevas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2N6fkTKTKzkb8ywF9A4OoyuAVTM.jpg" group-title="Portuguese",Nas Trevas (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Projeto Mercury: Os Sete Escolhidos (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3f1cb00bb603911c2eff241311e68472.jpg" group-title="Portuguese",Projeto Mercury: Os Sete Escolhidos (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sou Sua Mulher (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/35efcb8def5695758e2e2884f0475713.jpg" group-title="Portuguese",Sou Sua Mulher (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vozes (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8ce55ac9c93fda4178c85a10692998b1.jpg" group-title="Portuguese",Vozes (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik2fNhSATobUCukor4pKjT82Tvb.jpg" group-title="Portuguese",O Grande Mestre 2 (2010)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 3 (2015)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c06629c3c3baeff87aa2152dd1bc0dfc.jpg" group-title="Portuguese",O Grande Mestre 3 (2015)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crime e Desejo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOtWPXbHMayk1opmq2WOLtEyxW9.jpg" group-title="Portuguese",Crime e Desejo (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bingo: O Rei das Manhãs (2017)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f196a3475aec27738672cb828b680cda.jpg" group-title="Portuguese",Bingo: O Rei das Manhãs (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guerra Sem Fim: A Espada é a Lei (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/aee38c8d02519a00f5a75ccbfbf8a68d.jpg" group-title="Portuguese",Guerra Sem Fim: A Espada é a Lei (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Z: A Cidade Perdida (2017)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b70fbd15f81ca26ddbd40244fbe69b6f.jpg" group-title="Portuguese",Z: A Cidade Perdida (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman: A Alma do Dragão (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23Y5tz5YnkRS4TZjWB8GlzJghY2.jpg" group-title="Portuguese",Batman: A Alma do Dragão (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Cor Que Caiu do Espaço (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/011369f71c6e86785d17cfe78101c856.jpg" group-title="Portuguese",A Cor Que Caiu do Espaço (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Que Família é Essa? (2016)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/688511dc8f1e690a44a722dd5bc645c4.jpg" group-title="Portuguese",Que Família é Essa? (2016)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10 Horas Para o Natal (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a139d588fe4b6104a53f8e93bfffbd58.jpg" group-title="Portuguese",10 Horas Para o Natal (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="As Faces do Demônio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5GDJzSxsQl3OGuFlJq1Sbl55ikE.jpg" group-title="Portuguese",As Faces do Demônio (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flops: Agentes Nada Secretos (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6d08b133a3aa72be180244459be26cfb.jpg" group-title="Portuguese",Flops: Agentes Nada Secretos (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Entre Amigos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrFr8NVI5EuHbCn5dDpO2fNPhSg.jpg" group-title="Portuguese",Jogos Entre Amigos (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pieces of a Woman (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a506b93efc70a3bbf54997ad65522b48.jpg" group-title="Portuguese",Pieces of a Woman (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Caso Collini (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgAwiFtSQu2uGlQuCtVnQ5yWKE4.jpg" group-title="Portuguese",O Caso Collini (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fatale (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/54065f97476bc1267aab498687589514.jpg" group-title="Portuguese",Fatale (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como Construir uma Garota (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svEKCyQmJs3ZRu4YC6rQl248AAs.jpg" group-title="Portuguese",Como Construir uma Garota (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Convenção das Bruxas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orrJiQs30G6zSkT8is4QOAtRpFM.jpg" group-title="Portuguese",Convenção das Bruxas (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Palavras nas Paredes do Banheiro (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f3f979924c99e4a1d9dac809899755b5.jpg" group-title="Portuguese",Palavras nas Paredes do Banheiro (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pacarrete (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/03f237f1fea157f27fa3fafb85ee019d.jpg" group-title="Portuguese",Pacarrete (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brahms: Boneco do Mal II (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c1f56a4a1aca9974047b96580de2ea.jpg" group-title="Portuguese",Brahms: Boneco do Mal II (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luccas Neto em: Acampamento de Férias 3 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTmYMM7divfQx6CrGUEnU0EbLEZ.jpg" group-title="Portuguese",Luccas Neto em: Acampamento de Férias 3 (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Legado do Grande Mestre (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e4c2c06f7ce67bdc2947f3ee8cb44745.jpg" group-title="Portuguese",O Legado do Grande Mestre (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zona de Combate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg" group-title="Portuguese",Zona de Combate (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Noite em Miami... (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/izMwtiJk4JaMTnW7UyJIpY1rAvd.jpg" group-title="Portuguese",Uma Noite em Miami... (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battle in Space: The Armada Attacks (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4b6510f05325172d936c0fa9160a220a.jpg" group-title="Portuguese",Battle in Space: The Armada Attacks (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belsen: Our Story (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y94DIUozuQjiUn776zxQx4lk3ST.jpg" group-title="Portuguese",Belsen: Our Story (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bright Hill Road (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9bdeb05905a5e8eb2016e1cf906bded2.jpg" group-title="Portuguese",Bright Hill Road (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heart of the Home (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8f0893ed3b9b70a6745454ae994bfd62.jpg" group-title="Portuguese",Heart of the Home (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Na Mira do Perigo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1w1TVqCiEWqYnfrNUL0N1W8LAfA.jpg" group-title="Portuguese",Na Mira do Perigo (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Massacre (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibt11TZXl6GfkOEEy8H43f0GL0R.jpg" group-title="Portuguese",O Massacre (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra de Algodão (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvbXJHfxXDdEHIXWebVOysqRJ7J.jpg" group-title="Portuguese",Guerra de Algodão (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Garotos (2014)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c097c1dd9d2b63505ab1ea78f99613ae.jpg" group-title="Portuguese",Garotos (2014)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Full Out 2: You Got This! (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3e9f4e0df7a17e250ceb977930a01482.jpg" group-title="Portuguese",Full Out 2: You Got This! (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clouds (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euWiWsHhPeSGFsIO5ArzCkGeskG.jpg" group-title="Portuguese",Clouds (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anjo Maldito (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyI0aIW6ececBWorPdK0vNydi3z.jpg" group-title="Portuguese",Anjo Maldito (2009)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Bruxa da Casa ao Lado (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auYgUlzat97qhDNPk2RjjU6cvnb.jpg" group-title="Portuguese",A Bruxa da Casa ao Lado (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Outro Round (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/df9v922pf2qzsjo8Hze6LsXM9wx.jpg" group-title="Portuguese",Outro Round (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arthur & Merlin: Cavaleiros de Camelot (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chGTXsvn53XvEnvsJ9ZD9eiYKx9.jpg" group-title="Portuguese",Arthur & Merlin: Cavaleiros de Camelot (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Onda de choque 2 (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0de417d7966d3e3a7bbefa73b3377baf.jpg" group-title="Portuguese",Onda de choque 2 (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bill & Ted: Encare a Música (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e3e473c1c88b487d4db4e0e923d3e258.jpg" group-title="Portuguese",Bill & Ted: Encare a Música (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Céu em Chamas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/989mh7vooFTeIUSnRIATKYMmhEo.jpg" group-title="Portuguese",Céu em Chamas (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Crime de Georgetown (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOWbf5oPwCpUznpXJD2snOODprk.jpg" group-title="Portuguese",O Crime de Georgetown (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fluidity (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5d5aabd2a14970dc670f3478b675f71d.jpg" group-title="Portuguese",Fluidity (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meu Presente de Natal (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/fca5b674a42e0b82ae2ac6b8fca30345.jpg" group-title="Portuguese",Meu Presente de Natal (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secrets in the Snow (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/35322331e0ef8a39f483b15fc135d782.jpg" group-title="Portuguese",Secrets in the Snow (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uma Sereia em Paris (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gLumn0yQu3TrHKazP40TDGYpNqi.jpg" group-title="Portuguese",Uma Sereia em Paris (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/23246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Elevador (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVUIAKV1uGO4YzPWxweSing55gl.jpg" group-title="Portuguese",O Elevador (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lego DC Super Hero Girls - Escola de Super Vilãs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kM4pjifTl0eCgiINqMTgEyU8srL.jpg" group-title="Portuguese",Lego DC Super Hero Girls - Escola de Super Vilãs (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Tigre Branco (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/21ed55c455241597f2591b6c4ede757f.jpg" group-title="Portuguese",O Tigre Branco (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Estranho Passageiro - Sputnik (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBi5xW9Rd0YoGB0aAggV0EN5LDP.jpg" group-title="Portuguese",Estranho Passageiro - Sputnik (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Podres de Ricos (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d6e70eafbc64b29755607524f9e915e3.jpg" group-title="Portuguese",Podres de Ricos (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24469.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem das Cavernas (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c601943d47dc7f77f14b1002aca68ab5.jpg" group-title="Portuguese",O Homem das Cavernas (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24470.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A História Pessoal de David Copperfield (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sabtafLSADdx3Gpj2V1HRXbndpU.jpg" group-title="Portuguese",A História Pessoal de David Copperfield (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Isolado na Pandemia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aI8ETMVoOf0GuBHWSiOjPaqhufI.jpg" group-title="Portuguese",Isolado na Pandemia (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Chalé (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRPJ0eEPBL1mCVf4hUTRdD7PAFz.jpg" group-title="Portuguese",O Chalé (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Tempo com Você (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/568ff4b170aa40339668add80b9fa68c.jpg" group-title="Portuguese",O Tempo com Você (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BBB 21 CONFESSIONARIO" tvg-logo="" group-title="CANAIS: HD",BBB 21 CONFESSIONARIO
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/24570
+#EXTINF:-1 tvg-id="" tvg-name="Assassinos Sádicos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg" group-title="Portuguese",Assassinos Sádicos (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cabana da Possessão (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/fac6415ebc7fba421b4f04540d724c40.jpg" group-title="Portuguese",Cabana da Possessão (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Legado de Violência (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzkmHg8rBSdRuXDPSHhHvkEvKCD.jpg" group-title="Portuguese",Legado de Violência (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mais Um Verão Com Mamãe (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EL45C23bLCUMm7UJGMKPDpV8Dk.jpg" group-title="Portuguese",Mais Um Verão Com Mamãe (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Caçador de Recompensas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/td0uLMhr67ateeoUZRQZYIqzp2B.jpg" group-title="Portuguese",O Caçador de Recompensas (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Mal Está ao Seu Lado (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/771b5d6586b0807bc771977726eed329.jpg" group-title="Portuguese",O Mal Está ao Seu Lado (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terra dos Bravos (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9c1be7b5ac5a4e7f6443cf20d54f91f6.jpg" group-title="Portuguese",Terra dos Bravos (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Caso de Detetive (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1aec34ea5c1a5874d443afb88d800386.jpg" group-title="Portuguese",Um Caso de Detetive (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blood Hunters: Rise Of The Hybrids (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/36e07334e659092491ca7c0093d61aed.jpg" group-title="Portuguese",Blood Hunters: Rise Of The Hybrids (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brothers by Blood (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qepQ8YdsJYx2m47qdfGlnOUQyOO.jpg" group-title="Portuguese",Brothers by Blood (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead in the Water (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d9f26e6e125a30a77a77f24e359936fc.jpg" group-title="Portuguese",Dead in the Water (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flinch (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/768d559b88b6edb047c97c08c5d3940d.jpg" group-title="Portuguese",Flinch (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Get Luke Lowe (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0edbc254afcbe4cab0341d7d05671dc0.jpg" group-title="Portuguese",Get Luke Lowe (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ten Minutes to Midnight (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c9e0a58187dea8e2842bbde008a9119b.jpg" group-title="Portuguese",Ten Minutes to Midnight (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Ataque dos Vermes Malditos 7 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg" group-title="Portuguese",O Ataque dos Vermes Malditos 7 (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virus Shark (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f5b8e611dccf4994c0b15a9b5143e809.jpg" group-title="Portuguese",Virus Shark (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abaixo de Zero (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fciMWczNCEODy1EaII34BNbHdYA.jpg" group-title="Portuguese",Abaixo de Zero (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Escavação (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ov6ES8aMntZJ6bbhOhhSwNoZbVf.jpg" group-title="Portuguese",A Escavação (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Em busca de 'Ohana (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTWl37oAYRXS3D5mEHmjveXXyrN.jpg" group-title="Portuguese",Em busca de 'Ohana (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Justiça Brutal (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbZi8jRG0tZTdXx3GH6CZthkFzc.jpg" group-title="Portuguese",Justiça Brutal (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Palmer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xSDdRAjxKAGi8fUBLOqSrBhJmF0.jpg" group-title="Portuguese",Palmer (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Professor (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33g1VIHjN3jctQVKDanVqhvGpso.jpg" group-title="Portuguese",O Professor (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Furnace (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5340294b33291d14143a720e4afe9df9.jpg" group-title="Portuguese",The Furnace (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minha Querida Nora (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1c9487c347b3d892893b637d2fb8c6f0.jpg" group-title="Portuguese",Minha Querida Nora (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Preço do Talento (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YWcnsFPLqINqBtrAJDpbZEULbT.jpg" group-title="Portuguese",O Preço do Talento (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um de Nós (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EsLZoT8oHhQlGd1QpdbnvnwTzO.jpg" group-title="Portuguese",Um de Nós (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Billy The Kid: O Fora da Lei (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/26d0c1c88e5c478f35ecf8dae5eaac15.jpg" group-title="Portuguese",Billy The Kid: O Fora da Lei (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Cemitério das Almas Perdidas (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c977e0d176de825f3f227f3c786bbce4.jpg" group-title="Portuguese",O Cemitério das Almas Perdidas (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Skull: A Máscara de Anhangá (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e22oVVRJKEfZWqGn5SVNVTIiC7v.jpg" group-title="Portuguese",Skull: A Máscara de Anhangá (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todos os Meus Amigos Estão Mortos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9XuDY3jUDM5LU04xUNeqCWjzWLw.jpg" group-title="Portuguese",Todos os Meus Amigos Estão Mortos (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigas de Verdade (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f635f1d33d214413781accbda1d80a47.jpg" group-title="Portuguese",Amigas de Verdade (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pânico Abaixo de Zero (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/527278c57d0d0590c2c613aaacb962bc.jpg" group-title="Portuguese",Pânico Abaixo de Zero (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Febre (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uH5IvPWzzJ21rVRAW3WD5MFYTWT.jpg" group-title="Portuguese",A Febre (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida em um Ano (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7616a12a76c0249b86a8ddbbdd726a30.jpg" group-title="Portuguese",A Vida em um Ano (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman: Alma do Dragão (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f5d20c20f3d64056ff182a1d71e9c435.jpg" group-title="Portuguese",Batman: Alma do Dragão (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm e Marie (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8192b770c15f9d0d8e649c127d7df847.jpg" group-title="Portuguese",Malcolm e Marie (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O 3º Andar: Terror na Rua Malasana (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f1d1b3dfb692052299d633c119190d25.jpg" group-title="Portuguese",O 3º Andar: Terror na Rua Malasana (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pole Dance: Dança do Poder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CXQ5zOrhHGcw1imsRMwa7W8izS.jpg" group-title="Portuguese",Pole Dance: Dança do Poder (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mad Hatter (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9c5bcc9a6242a9950825063025a650a6.jpg" group-title="Portuguese",The Mad Hatter (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24956.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Twist (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b5cc7e165e92151a16049082766f113a.jpg" group-title="Portuguese",Twist (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mulheres Ocultas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tENTyZkCoCnFfUmgxlMZLcX1gBT.jpg" group-title="Portuguese",Mulheres Ocultas (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24958.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Horas Decisivas (2016)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e2f570223dd34af259a1c8fcba0d1513.jpg" group-title="Portuguese",Horas Decisivas (2016)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nova Ordem Espacial (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ec52c65a8c1d66b3478155c125ed4df7.jpg" group-title="Portuguese",Nova Ordem Espacial (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Desaparecimento (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0MZ91joBg0p69VPUz5S03AlnYq.jpg" group-title="Portuguese",O Desaparecimento (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Mediador (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/61d10889b98cdab8fc5fd8a074e11ee3.jpg" group-title="Portuguese",O Mediador (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Repo Men: O Resgate de Órgãos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uJZLLhEs6CVyQWohaa7xqthdaq.jpg" group-title="Portuguese",Repo Men: O Resgate de Órgãos (2010)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Último Paraíso (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cf0614b12c0485f2fd6280207fa8a68c.jpg" group-title="Portuguese",O Último Paraíso (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/24994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Super Urso: Um Resgate na Cidade Grande (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/95586030ad34d65f479cf1bfb807137d.jpg" group-title="Portuguese",Super Urso: Um Resgate na Cidade Grande (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="100 Days to Live (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/338c8f6a85cc4261d9ea779d28288d91.jpg" group-title="Portuguese",100 Days to Live (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Central Park Dark (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2ae2fc8dd45ac86f0c9d0ed02c489ac5.jpg" group-title="Portuguese",Central Park Dark (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infidel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vglivF7KG7YcojCsqWkkRwad0VE.jpg" group-title="Portuguese",Infidel (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Occupation: Rainfall (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioTJaEpRw2Amw3001oO4KNZ3cXR.jpg" group-title="Portuguese",Occupation: Rainfall (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trégua (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvXQ0Q0Tx4S8326yACe9GkZRsXm.jpg" group-title="Portuguese",Trégua (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Simmer (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/4ddce2bd4727f5dd8162095a55bec60c.jpg" group-title="Portuguese",Simmer (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Inglorious.Serfs" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgCdhQQWaKdAiPDC724sZakpTP0.jpg" group-title="Portuguese",The.Inglorious.Serfs
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Reckoning (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jdBOApDt1DXlJtdzUtp76DhmmP.jpg" group-title="Portuguese",The Reckoning (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="紧急救援 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saCL8sBP5nCrjrvOsY0DzWC2KEw.jpg" group-title="Portuguese",紧急救援 (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Sequestro de Eden (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2BurR1duynNPt3Dt7KUgQvhEHW.jpg" group-title="Portuguese",O Sequestro de Eden (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Mapa das Pequenas Coisas Perfeitas (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1ed2e3bd3737c2c9a70a33033a6a185c.jpg" group-title="Portuguese",O Mapa das Pequenas Coisas Perfeitas (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ponto Vermelho (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7400ab2e4e017da89fc18cab7d9de942.jpg" group-title="Portuguese",Ponto Vermelho (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Para Todos os Garotos: Agora e Para Sempre (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b13a2b2f7a130ddf7f951a7768228426.jpg" group-title="Portuguese",Para Todos os Garotos: Agora e Para Sempre (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paydirt (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/da3e7dabbb52e3a48f9e89d2b05bf64e.jpg" group-title="Portuguese",Paydirt (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Xico, O Cachorro Mágico (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39d5ce77584e1faed8c511d7e888f87f.jpg" group-title="Portuguese",Xico, O Cachorro Mágico (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Relatos do Mundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLqg9BjcecdzYGqURSdWgBUO3rX.jpg" group-title="Portuguese",Relatos do Mundo (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor² (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVJ2gKYlGX3y0YlpZgEnFQr58gq.jpg" group-title="Portuguese",Amor² (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Hero Academia: 2 Heróis - O Filme (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ee49e24eed9bc4ceb8648ca391d67a9b.jpg" group-title="Portuguese",My Hero Academia: 2 Heróis - O Filme (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flora e Ulysses (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b1279fc0a22da7fe5e06586c3ad524d9.jpg" group-title="Portuguese",Flora e Ulysses (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Um Golpe à Italiana (1969)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ecd53d32ef0dbae4dc0c02cb8b80bd9f.jpg" group-title="Portuguese",Um Golpe à Italiana (1969)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Som e a Fúria (2015)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d8040c5bfaa2938afbd93dda0ea0713d.jpg" group-title="Portuguese",O Som e a Fúria (2015)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breaking Fast (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3488d0e0d4564114519001d30146d915.jpg" group-title="Portuguese",Breaking Fast (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Long Story Short (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/82ca6a51bea152fa983152f04022d71a.jpg" group-title="Portuguese",Long Story Short (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Penguin Bloom (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5l6k0Z9tYddXW9327V2jZrfWG00.jpg" group-title="Portuguese",Penguin Bloom (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silk Road (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6KxiEWyIDpz1ikmD7nv3GTX4Uoj.jpg" group-title="Portuguese",Silk Road (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todos os Mortos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t84JN0QfTxnYqyaYzgkYDbXSie8.jpg" group-title="Portuguese",Todos os Mortos (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Caixa de Pandora (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/df0662becc2f83c054222a3772fc1adf.jpg" group-title="Portuguese",A Caixa de Pandora (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Vingança de Lefty Brown (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQoi7Dapb6UZHpYQRfdX2eYAtwT.jpg" group-title="Portuguese",A Vingança de Lefty Brown (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Último Duelo (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1db86507dcd549224fa89130a8f73f70.jpg" group-title="Portuguese",O Último Duelo (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Irmãos Sisters (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0a86c7b2eb034733cd20da49c2678159.jpg" group-title="Portuguese",Os Irmãos Sisters (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inferno na Fronteira (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/11cd7ee88a491b1124ba6c5fd5627cb3.jpg" group-title="Portuguese",Inferno na Fronteira (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Big Kill - A Cidade do Medo (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d304f98624238caac3e0812609ceaa58.jpg" group-title="Portuguese",Big Kill - A Cidade do Medo (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Além da Liberdade (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/65be94a62a9e2e028e3ceb941e44cbea.jpg" group-title="Portuguese",Além da Liberdade (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Salvação (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkuXj5nma1UKajzX3ef0hcmRNao.jpg" group-title="Portuguese",A Salvação (2014)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Duelo de Bravos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJ4du1acCK9CYhpOCuZgBPKxSBf.jpg" group-title="Portuguese",Duelo de Bravos (2011)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimes de Família (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suVb5zxMvfoJ0ugvthas41KMDqq.jpg" group-title="Portuguese",Crimes de Família (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tom & Jerry - O Filme (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e06BpqZIxRSpvNSbItcGcgs0S5I.jpg" group-title="Portuguese",Tom & Jerry - O Filme (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calm Before (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6e0e86f49b6fe5d9a43acf47008cfbf2.jpg" group-title="Portuguese",Calm Before (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2 Hearts (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/996190970de05f211f1b8a4e831691cf.jpg" group-title="Portuguese",2 Hearts (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agnes Joy (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8144311379f1804c19e4ae39ed86d104.jpg" group-title="Portuguese",Agnes Joy (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Feitiço das Trevas (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c5e66aad65c5e375dbdf653bb3a5aa7c.jpg" group-title="Portuguese",Feitiço das Trevas (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Judas e o Messias Negro (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d00047bf6df73373d578ea57d6083820.jpg" group-title="Portuguese",Judas e o Messias Negro (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Último Vermeer (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/28b9229777eff89ae332fbed496fd0eb.jpg" group-title="Portuguese",O Último Vermeer (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Willy's Wonderland (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/74660ad67d92355cc772bdc61a206013.jpg" group-title="Portuguese",Willy's Wonderland (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monster Hunter (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f000a83eb9943245dd03e7656d03af49.jpg" group-title="Portuguese",Monster Hunter (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ainbo - A menina da Amazônia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyDU092PeGGcd6wUIzlhFoaWcyX.jpg" group-title="Portuguese",Ainbo - A menina da Amazônia (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Príncipe Esquecido (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/13edb680c81121b9d08d063a9a73914b.jpg" group-title="Portuguese",O Príncipe Esquecido (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amizade Maldita (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5735928ee1f7ae8fb639825d4c0648d3.jpg" group-title="Portuguese",Amizade Maldita (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breve Miragem de Sol (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/33c08c6089653dc9edefddb04fa35b7d.jpg" group-title="Portuguese",Breve Miragem de Sol (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Instinto (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bab74e1bbd44afd6e15a292e904baddb.jpg" group-title="Portuguese",Instinto (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medo da Chuva (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e775093fbff014b457899d865a72d174.jpg" group-title="Portuguese",Medo da Chuva (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cidade Sob Ameaça (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/21c0be6a01a27b9ea035170595e1bee3.jpg" group-title="Portuguese",Cidade Sob Ameaça (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BIA: Um Mundo do Avesso (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f669e3d949a3589aa13b9d791f08ff7c.jpg" group-title="Portuguese",BIA: Um Mundo do Avesso (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo! E a Espad‪a‬ (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a8d527cc1e936ee262ce7e43ef434ca.jpg" group-title="Portuguese",Scooby-Doo! E a Espad‪a‬ (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eleições (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c08d4f356eb1d4488da68d9322f5745e.jpg" group-title="Portuguese",Eleições (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Namaste Wahala (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2251a16d245f87e29bc7c0601de66a7d.jpg" group-title="Portuguese",Namaste Wahala (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emicida: AmarElo - É Tudo Pra Ontem (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/308f3da16d3c73cc9ee5fb069a0eb9d4.jpg" group-title="Portuguese",Emicida: AmarElo - É Tudo Pra Ontem (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fate: The Winx Saga - The Afterparty (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Zz2Sw5ZQ3AZTtO54EvqkoKuzwX.jpg" group-title="Portuguese",Fate: The Winx Saga - The Afterparty (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Detetive em Chinatown (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2f26ba75f9d76f0ae9d1e4a4a03a3d42.jpg" group-title="Portuguese",Um Detetive em Chinatown (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Faceless (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0b7543de2eb07d12cb12a1243aee8c4f.jpg" group-title="Portuguese",Faceless (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indústria Americana (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e69b6d34fff5ce05318459a414544a5e.jpg" group-title="Portuguese",Indústria Americana (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Filho Eterno (2016)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/76520cc2dc57beb6316cf9b8a7a8b4b1.jpg" group-title="Portuguese",O Filho Eterno (2016)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sand Castles (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe2vpFDaFCpew23DFuTg7eOAVSk.jpg" group-title="Portuguese",Sand Castles (2016)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solteiramente (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/931b4a1f6d00741f6d7c785e3c794da3.jpg" group-title="Portuguese",Solteiramente (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Ritmo da Selva: O Filme (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/22e0690f3d6c5faa26e74e09a281246c.jpg" group-title="Portuguese",O Ritmo da Selva: O Filme (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Afonso Padilha: Alma de Pobre (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/44d4063c9e03604eab764b05bf550c62.jpg" group-title="Portuguese",Afonso Padilha: Alma de Pobre (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sérgio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LzBpItheKPnyu0zRktaazl3LOt.jpg" group-title="Portuguese",Sérgio (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bronx (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSpm2mMbkd0hLTRWBz0zolnLAyK.jpg" group-title="Portuguese",Bronx (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogue (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2bc04ad3d3fb7b27846a88c37e282f92.jpg" group-title="Portuguese",Rogue (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Freaks: Um de Nós (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5vhnaaOLSUboRJwiJbYqoUsach.jpg" group-title="Portuguese",Freaks: Um de Nós (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Coisa que Ele Queria (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wulTQYc4Ac970mwf5F5ewhNSBtE.jpg" group-title="Portuguese",A Última Coisa que Ele Queria (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Buladó (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJwe9zrwhFC0mPOa5oS3cH9fZ2Z.jpg" group-title="Portuguese",Buladó (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reza a Lenda (2016)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/45a75c0438ca74cfc17134b8fb60ec3d.jpg" group-title="Portuguese",Reza a Lenda (2016)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Refúgio (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/dfd51ac2ca67232ab1ab6b5585785019.jpg" group-title="Portuguese",O Refúgio (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Para Todos os Garotos: P.S. Ainda Amo Você (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuEnmqQkp6lKkbMi4AAr0Yu3XOI.jpg" group-title="Portuguese",Para Todos os Garotos: P.S. Ainda Amo Você (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kingsman: O Círculo Dourado (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMCsn4a8wEHw2eco4pulugd7N6i.jpg" group-title="Portuguese",Kingsman: O Círculo Dourado (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BBB-1 4K" tvg-logo="" group-title="CANAIS: HD",BBB-1 4K
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/25488
+#EXTINF:-1 tvg-id="" tvg-name="BBB-2 4K" tvg-logo="" group-title="CANAIS: HD",BBB-2 4K
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/25489
+#EXTINF:-1 tvg-id="" tvg-name="BBB-Mosaico 4K" tvg-logo="" group-title="CANAIS: HD",BBB-Mosaico 4K
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/25490
+#EXTINF:-1 tvg-id="" tvg-name="Becky (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg" group-title="Portuguese",Becky (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Campo do Medo (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a0442c8920e8a002d508ede9512473c8.jpg" group-title="Portuguese",Campo do Medo (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Destino de Amina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7Gi5ZlJDb6aqLx8y206lfvjGFd.jpg" group-title="Portuguese",O Destino de Amina (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copperman - Um Herói Especial (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgyTgQ6xoeuqHLcTLOIV0ZfCtYO.jpg" group-title="Portuguese",Copperman - Um Herói Especial (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mosul (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vjephttoBH1ujOZcsqWlftLbhg.jpg" group-title="Portuguese",Mosul (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Raya e o Último Dragão (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39214375cce6467178720c7d53da2c98.jpg" group-title="Portuguese",Raya e o Último Dragão (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Last Three Days (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcCN3rrqtn3KdOhlifoGmv5Z9wi.jpg" group-title="Portuguese",Last Three Days (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psych 2: Lassie está de Volta (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0wb4v02VrqWICwmHhk7yrn7T4B.jpg" group-title="Portuguese",Psych 2: Lassie está de Volta (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Archive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tjGwi7Y8Pji1WYKCnvdWuhQz1u.jpg" group-title="Portuguese",Archive (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Menino da Porteira (2009)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/df36091585e0ca4e0de3ba7b729bdcd9.jpg" group-title="Portuguese",O Menino da Porteira (2009)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Vida de uma Mulher (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmyR4dAexRo7gdCI9wr7Qpyq9pD.jpg" group-title="Portuguese",A Vida de uma Mulher (2016)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Barco (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2d3f4e72b0232560d7f1f1d673995bd6.jpg" group-title="Portuguese",O Barco (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caçadores de Dragões (2008)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/752cc02f94677818d422ebfce2bee025.jpg" group-title="Portuguese",Caçadores de Dragões (2008)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flor da Juventude (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9ebO0DrVMmOX3cx4xK8xpElmPA.jpg" group-title="Portuguese",Flor da Juventude (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Porque é Novembro (2015)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0bbc20374b1711bdcc597402b06f2cee.jpg" group-title="Portuguese",Porque é Novembro (2015)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="As Duas Irenes (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngwdMv7pUd52r5R2a0J39GQUDE2.jpg" group-title="Portuguese",As Duas Irenes (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/25998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Arte de Ser Adulto (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8407ad2178f4da56767388ed5f1f88db.jpg" group-title="Portuguese",A Arte de Ser Adulto (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cherry - Inocência Perdida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbSsR0IfnxdXZqfRMpH2PgLAbPV.jpg" group-title="Portuguese",Cherry - Inocência Perdida (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dia do Sim (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0b99f7c3b4a5c9e8e243f2b5e602e71e.jpg" group-title="Portuguese",Dia do Sim (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Filhos de Istambul (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/593c828457a4da6084c6b42a36a910f3.jpg" group-title="Portuguese",Filhos de Istambul (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortal (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/045447ca16f4687e7ffac632d05f4f84.jpg" group-title="Portuguese",Mortal (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Liga da Justiça de Zack Snyder (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9XwEXYWpxt2rpkmFBiQ1zeyKUy.jpg" group-title="Portuguese",Liga da Justiça de Zack Snyder (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Educação Americana: Fraude E Privilégio (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/dee36e90d94343d48361ad61dfd84fa7.jpg" group-title="Portuguese",Educação Americana: Fraude E Privilégio (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cabras da Peste (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpW9lrpPGV9FeIk1AjxnhUY6g58.jpg" group-title="Portuguese",Cabras da Peste (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Irresistível (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gv258c25YeGVLFC3cFH5kVYJGMa.jpg" group-title="Portuguese",Irresistível (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Mistério de Block Island (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9m1iWhDtZHfvmQb7lwTe8AERpW.jpg" group-title="Portuguese",O Mistério de Block Island (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silenciada (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/15dabb2a0abc65fbc979d303ecc855b6.jpg" group-title="Portuguese",Silenciada (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por Trás da Inocência (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b99ddcc1ded3d3c4f6a9ff66dc5d3d4d.jpg" group-title="Portuguese",Por Trás da Inocência (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sem Filhos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNf9rBTIueuVERnU1E8koM8lqZM.jpg" group-title="Portuguese",Sem Filhos (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="侍神令 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfa43UMx9c7duexBLTIVsrjBki0.jpg" group-title="Portuguese",侍神令 (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wild Boar (2019) Legendado " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQJibuMsRXBvC1zBA1rEmT0BHlX.jpg" group-title="Portuguese",Wild Boar (2019) Legendado 
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hero Dog: The Journey Home (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/42f32576e05d51567e87d8c0ef6cdaea.jpg" group-title="Portuguese",Hero Dog: The Journey Home (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Insight (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7fef7df9ee814ae34862e44490fccb54.jpg" group-title="Portuguese",Insight (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Know Fear (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b798e4f58726caf28547dc89dfdec3fb.jpg" group-title="Portuguese",Know Fear (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26296.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" Carioca-21 UHD" tvg-logo="https://portal6.com.br/wp-content/uploads/2017/01/Selo_CampeonatoCarioca.png" group-title="CANAIS: HD", Carioca-21 UHD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/26369
+#EXTINF:-1 tvg-id="" tvg-name="Come True (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeUInw5QePyf2rCe9zQzGEAP5gM.jpg" group-title="Portuguese",Come True (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Nordeste UHD" tvg-logo="https://app.maisbolao.com.br/arquivos/campeonato/97b047d5-a698-41bc-894c-36e43455058c_large.png" group-title="CANAIS: HD",Copa do Nordeste UHD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/26615
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9f51d965d5ea8f13e610c6738752925b.png" group-title="CANAIS: HD",DAZN UHD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/26616
+#EXTINF:-1 tvg-id="" tvg-name="Em Torno do Sol (2019) Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxDBe5FPRVyYdrMsfAIGs2TesS4.jpg" group-title="Portuguese",Em Torno do Sol (2019) Legendado
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O que arde (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/941f1D5QJij44vBiz58OV33K3zh.jpg" group-title="Portuguese",O que arde (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pinóquio (2019) " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EuGKjsYegO58RaMYWGvnurHo7u.jpg" group-title="Portuguese",Pinóquio (2019) 
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seaspiracy: Mar Vermelho (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fr01lKMjStOo3VboaiGUFweVrx.jpg" group-title="Portuguese",Seaspiracy: Mar Vermelho (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asia (2021)  Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dvOmfAHkMoTQfogaUnfnpRfRDd.jpg" group-title="Portuguese",Asia (2021)  Legendado
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crisis (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ao4JajLcPITivfstlzENge3MPkq.jpg" group-title="Portuguese",Crisis (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Exodus (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4f105946c9d095764766c90517aac49.jpg" group-title="Portuguese",Exodus (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="His Killer Fan (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/69034943e04581d920fbb5793154a472.jpg" group-title="Portuguese",His Killer Fan (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz da Luz (2019) Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu9BsfaUtQKojvryp7eoRLO8nv8.jpg" group-title="Portuguese",Luz da Luz (2019) Legendado
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lucky (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/fba20bc45efe38f82a4ca12a634209ba.jpg" group-title="Portuguese",Lucky (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Night of the Kings (2021)  Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dewj8UND9iugT3rAMlu36IOz4iq.jpg" group-title="Portuguese",Night of the Kings (2021)  Legendado
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Notturno (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/84bab617f8b5c6387b535634039741b9.jpg" group-title="Portuguese",Notturno (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rams (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cd51db912be7205aaad9138b938ae759.jpg" group-title="Portuguese",Rams (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shadowland (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/58671b374a1ba1d08efaa0eead49923d.jpg" group-title="Portuguese",Shadowland (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Estados Unidos x Billie Holiday (2021) Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEzkxuE2sJcmHYjXQHM8xvR9ICH.jpg" group-title="Portuguese",Estados Unidos x Billie Holiday (2021) Legendado
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Village in the Woods (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6408818c69f7456148795528cf8e1c62.jpg" group-title="Portuguese",The Village in the Woods (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The World to Come (2021) Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j64CnpmbaKB90Cpprk5hM9kHyJI.jpg" group-title="Portuguese",The World to Come (2021) Legendado
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mães de Verdade (2020) Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17iON4r2gsn6QBriAvj5Nk8tIe2.jpg" group-title="Portuguese",Mães de Verdade (2020) Legendado
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carioca-21 2 UHD" tvg-logo="" group-title="CANAIS: HD",Carioca-21 2 UHD
+http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/26637
+#EXTINF:-1 tvg-id="" tvg-name="A Semana da Minha Vida (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2c49088324de56d2e32c61ad54120442.jpg" group-title="Portuguese",A Semana da Minha Vida (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Trip (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1Gy5HX3DKGaNW1Ay30NTIVJqJ6.jpg" group-title="Portuguese",Bad Trip (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Pai, Big Filho, Big Família (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dwMW49v8FvqPUXS8YSdhP1XOchj.jpg" group-title="Portuguese",Big Pai, Big Filho, Big Família (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fúria Incontrolável (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8e10b4807515cdd42e928b3933586aaf.jpg" group-title="Portuguese",Fúria Incontrolável (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Falcão Manteiga de Amendoim (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5SKnVfT9oP6pCo1fNPzeE4mFt5.jpg" group-title="Portuguese",O Falcão Manteiga de Amendoim (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Phobias (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e828a460e7537fd1544abb278e11c3fa.jpg" group-title="Portuguese",Phobias (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sacrilege (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7097d531838fe7c7dad412db81864446.jpg" group-title="Portuguese",Sacrilege (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="15 Minutos (2001)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2f2c6b8d67c756f791b8574b38dc34e4.jpg" group-title="Portuguese",15 Minutos (2001)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eles Vivem (1988)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d472d25a0d71cf1740a6021f96b03b37.jpg" group-title="Portuguese",Eles Vivem (1988)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blithe Spirit (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/26918e962d0d175a5e280e65abba9ffc.jpg" group-title="Portuguese",Blithe Spirit (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Portais (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGPUXyhQTOqskKdDOD3Fmicqfc0.jpg" group-title="Portuguese",Os Portais (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Courier (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msOfcdWfTxohiboGTPpeJJi7Bln.jpg" group-title="Portuguese",The Courier (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pale Door (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/87b630fc6619b45532824ac269215005.jpg" group-title="Portuguese",The Pale Door (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brightburn - Filho das Trevas (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5ac9d9111351545162d2f90bd8819df8.jpg" group-title="Portuguese",Brightburn - Filho das Trevas (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deixe-o Partir (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjeMm5GOymDlnruhf7s1YpvMI0h.jpg" group-title="Portuguese",Deixe-o Partir (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Octonautas e o Círculo de Fogo (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/31f2590983b017327ee9eb400573db1f.jpg" group-title="Portuguese",Octonautas e o Círculo de Fogo (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla vs. Kong (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b9288fdce338b5aeb8b1e3364a966de8.jpg" group-title="Portuguese",Godzilla vs. Kong (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Garota da Capa Vermelha (2011)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6dc5e9dc55fb15a38339f3a1e28faa9a.jpg" group-title="Portuguese",A Garota da Capa Vermelha (2011)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agência Secreta de Controle de Magias (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3717a563f7e84f244d5a3b7c3335a366.jpg" group-title="Portuguese",Agência Secreta de Controle de Magias (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elysium (2013)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7481d59dbc1afa7a76c5e8a62c56d272.jpg" group-title="Portuguese",Elysium (2013)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="João e Maria: Caçadores de Bruxas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNAOG8mvstBhUE1jhbGkB87G2VV.jpg" group-title="Portuguese",João e Maria: Caçadores de Bruxas (2013)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Legião (2010)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d81ccdab8c28a29c7cbfc315b7482f71.jpg" group-title="Portuguese",Legião (2010)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Príncipe da Pérsia: As Areias do Tempo (2010)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c99d48c6defcc35f2abd175dfe31d21b.jpg" group-title="Portuguese",Príncipe da Pérsia: As Areias do Tempo (2010)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Força da Natureza (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCbYUY1xuyaxbp5F1KuyH7AIvHg.jpg" group-title="Portuguese",Força da Natureza (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mundo em Caos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7poSpsfrnhxjVN2uRmemd76ASvS.jpg" group-title="Portuguese",Mundo em Caos (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucicreide Vai pra Marte (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/81e1748b9af65e87e5ade0090cc61adf.jpg" group-title="Portuguese",Lucicreide Vai pra Marte (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nos Braços de um Assassino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqRUOtbDunNq7gTux3zXz25Krwp.jpg" group-title="Portuguese",Nos Braços de um Assassino (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 3: Parabellum (2019)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1c5708b1e94b819f671f525342399443.jpg" group-title="Portuguese",John Wick 3: Parabellum (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Wick - Um Novo Dia para Matar (2017)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e12c75bf60061f3a93f702c6c40ccd8d.jpg" group-title="Portuguese",John Wick - Um Novo Dia para Matar (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AK-47: A Arma Que Mudou o Mundo (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0e9da921ac460cfd3880b5c78fda872a.jpg" group-title="Portuguese",AK-47: A Arma Que Mudou o Mundo (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Cowboy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OBNEWwkFhsArvWJwgeL9BFmU7c.jpg" group-title="Portuguese",Alma de Cowboy (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Até o Céu (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imo9QdjIb3y5tJ7DICdVKHRkYXV.jpg" group-title="Portuguese",Até o Céu (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuja (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PFEWKFqfZZoxDpJNceL6XKzsGk.jpg" group-title="Portuguese",Fuja (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Diga Sim (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mww6dIUvcyoaiIRJ6883jixJVPU.jpg" group-title="Portuguese",Apenas Diga Sim (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Os Oito Odiados (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg" group-title="Portuguese",Os Oito Odiados (2015)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Segredos de Madame Claude (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ad9e43bb29e6e691c0d5c4f15b3bcf0a.jpg" group-title="Portuguese",Os Segredos de Madame Claude (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sete Homens e Um Destino (2016)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cc0c8348f4ff0d13c013228f31dd5fee.jpg" group-title="Portuguese",Sete Homens e Um Destino (2016)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Oak Room (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e8cef9bc15271a0650b81e0f3ea622df.jpg" group-title="Portuguese",The Oak Room (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Valente (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYbCpjAsyJ0uO0rKcvJ295INZZp.jpg" group-title="Portuguese",Valente (2012)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Você Deveria Ter Partido (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmgg6wuEUjcnDeTrq5dlupKObkH.jpg" group-title="Portuguese",Você Deveria Ter Partido (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/26996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Loucura de Amor (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/240279875d1bb0ab9a898bce524c987c.jpg" group-title="Portuguese",Loucura de Amor (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigos de Escola (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIjLHakcvsKtll8Bpos1U6AxlaB.jpg" group-title="Portuguese",Amigos de Escola (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Máscara de Ferro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4TV8H3kQQdzXtAXPRDCzLILKIy.jpg" group-title="Portuguese",A Máscara de Ferro (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Aventura da Princesa (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2d375abee54cf91563b00a8d9f286d6f.jpg" group-title="Portuguese",Barbie Aventura da Princesa (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dente por Dente (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9p2juLXBvn2SJHFZozbzjMXNcXH.jpg" group-title="Portuguese",Dente por Dente (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Difícil de Matar (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aohWBXqvFv69yhtASWQxncn7auU.jpg" group-title="Portuguese",Difícil de Matar (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meu Pai (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDu3LhXfBdvgbvbJnahcGst73Ri.jpg" group-title="Portuguese",Meu Pai (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Lago da Mort‪e‬ (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcTq1gst6NH2RQZy5t8iWRIkvcD.jpg" group-title="Portuguese",O Lago da Mort‪e‬ (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Legionário (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wstr4JUXrNKxOShC8203odHohu0.jpg" group-title="Portuguese",O Legionário (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Jovem (2014)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/475cae2b54cf74e9a5869e3b59a70ed2.jpg" group-title="Portuguese",Sangue Jovem (2014)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Белка и Стрелка: Карибская тайна (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKZ6NRTYHYGDih3NiycRNGHJGg8.jpg" group-title="Portuguese",Белка и Стрелка: Карибская тайна (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Take Back (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16JXKkATNiSKouOhxyg9lkHBag9.jpg" group-title="Portuguese",Take Back (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terror na Síria (2018)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0ecb00ec727d8c433a8c21b56e6b8e13.jpg" group-title="Portuguese",Terror na Síria (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Under the Stadium Lights (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/85eb7a6c98ca205db955020b067778f6.jpg" group-title="Portuguese",Under the Stadium Lights (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Майор Гром: Чумной Доктор (2021) Legendado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBkZlG55CprznYxwUcGY6r3ZXP6.jpg" group-title="Portuguese",Майор Гром: Чумной Доктор (2021) Legendado
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Pirâmide (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4U9NBOHCEX3U0LCf2Mc4mpdWCZ2.jpg" group-title="Portuguese",A Pirâmide (2014)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cloverfield: Monstro (2008)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6fbef6b7d5a3e4e28bee4c71c9a12abb.jpg" group-title="Portuguese",Cloverfield: Monstro (2008)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Garota Infernal (2009)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7673f1d8c84f9f58fc6c3fc65efdc3ce.jpg" group-title="Portuguese",Garota Infernal (2009)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noite no Paraíso (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIv5gxbSnNt9VfXy58APhUukp6E.jpg" group-title="Portuguese",Noite no Paraíso (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rua Cloverfield, 10 (2016)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/895682620ed6d8a103441faf492cb1bc.jpg" group-title="Portuguese",Rua Cloverfield, 10 (2016)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Madeireiro (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9M8qoqsTPrU5jkT0efuHJYCMJ8P.jpg" group-title="Portuguese",O Madeireiro (2011)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MMK Break The Stigma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9M8qoqsTPrU5jkT0efuHJYCMJ8P.jpg" group-title="Portuguese",MMK Break The Stigma (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoom (2015)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2f28fc50b1f57c0e6ebf0504bfc5fcde.jpg" group-title="Portuguese",Zoom (2015)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Ritual (2017)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/cb2094ac3f104972d104bf9ea5d12d70.jpg" group-title="Portuguese",O Ritual (2017)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Every Breath You Take (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5m9Kj3CbAcy9FlMP3BKOcMtoHmv.jpg" group-title="Portuguese",Every Breath You Take (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Believer (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c441f26b7222e59d6e3907874ae4eaf5.jpg" group-title="English Legendado",The Believer (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reap (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8fe240ef01c95460f4565825ec8b5fc3.jpg" group-title="Portuguese",Reap (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Original Gangster (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c3fd6a76accd7e0f869b54327cc959e1.jpg" group-title="Portuguese",Original Gangster (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nest of Vampires (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7b0c81e38c90bbdfe7da4d306a61b437.jpg" group-title="Portuguese",Nest of Vampires (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nemesis (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/945cd14fb804457c9bad3666c88a040a.jpg" group-title="Portuguese",Nemesis (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/faaa06754ab698b255274432e9dedbaf.jpg" group-title="Portuguese",Mortal Kombat (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lady of Guadalupe (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a86ed63e0ffd15e602a2cdb8ca2123a4.jpg" group-title="Portuguese",Lady of Guadalupe (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood.Con (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/febea8cc85430d13c340bfc56bfe97a7.jpg" group-title="Portuguese",Hollywood.Con (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Falling (2020)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e2fcd718dc9ff09b3ec94d74783c1541.jpg" group-title="Portuguese",Falling (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dawn of the Beast (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7889b0ca45df9f4c97acbc1cde48d63a.jpg" group-title="Portuguese",Dawn of the Beast (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babardeala cu bucluc sau porno balamuc (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2702646d60d70ab330fd4b9b5caac52a.jpg" group-title="Portuguese",Babardeala cu bucluc sau porno balamuc (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Danyka (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frpm4pIW5qPRZoCtA9VEJ4QHkdM.jpg" group-title="Portuguese",Danyka (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dois Estranhos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZRncL9WLV0aLOG4WKvML4Ljoq0.jpg" group-title="Portuguese",Dois Estranhos (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Você Já Viu Vagalumes? (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obiroU0bUT4yeiROMl7DwbGVsLN.jpg" group-title="Portuguese",Você Já Viu Vagalumes? (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Virtuais: O Início (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maDJlKxWrf5xtzBMG6x31sI5yVH.jpg" group-title="Portuguese",Jogos Virtuais: O Início (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Gods Nezha Reborn (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1f299a3076586adb65f24841b07aa23c.jpg" group-title="Portuguese",New Gods Nezha Reborn (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="O Protocolo de Auschwitz (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTvodu8Jqq8C5uiEXbsFmto4GJI.jpg" group-title="Portuguese",O Protocolo de Auschwitz (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armadilha Sexual (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hN3fRuSOatMvo1H91MTtddcxpmr.jpg" group-title="Portuguese",Armadilha Sexual (2018)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Monstros (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnz5wRqeYKlugGbC7RZxC7DAiED.jpg" group-title="Portuguese",Amor e Monstros (2020)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Killer Rose (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3fa9a221f38a69b8e8a4a8616eda68e9.jpg" group-title="Portuguese",Killer Rose (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Held (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFaeztksfufY5uewvu7DbUeiSey.jpg" group-title="Portuguese",Held (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chorão: Marginal Alado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gogfKsMhf4q8iOO8awqi9YWkt4g.jpg" group-title="Portuguese",Chorão: Marginal Alado (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="À Espera dos Bárbaros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k50gYFDfpAyxcIGjWjnXAaOM81e.jpg" group-title="Portuguese",À Espera dos Bárbaros (2019)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Trovão (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/459b3a7f692160d075a96b709ebc5ca1.jpg" group-title="Portuguese",Esquadrão Trovão (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lazarus (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e3888dd336799506489b2156c676a338.jpg" group-title="Portuguese",Lazarus (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night of the Sicario (2021)" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d5b6583bb7f09e703a9a62b443cefc80.jpg" group-title="Portuguese",Night of the Sicario (2021)
+http://xcui.vitvabc.xyz:8880/movie/2879940030ad/2879940030ad/27740.mp4
